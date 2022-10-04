@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/a11y-airline/static/css/main.7627d025.css",
+    "main.js": "/a11y-airline/static/js/main.5ea3d4a3.js",
+    "static/media/ico-opener.svg": "/a11y-airline/static/media/ico-opener.5012fa0dad7ea0704916.svg",
+    "index.html": "/a11y-airline/index.html",
+    "static/media/passenger__control-add.svg": "/a11y-airline/static/media/passenger__control-add.cf1894dceeee31ab60ed.svg",
+    "static/media/passenger__control-sub.svg": "/a11y-airline/static/media/passenger__control-sub.40090f0e3c8cdae6341b.svg",
+    "main.7627d025.css.map": "/a11y-airline/static/css/main.7627d025.css.map",
+    "main.5ea3d4a3.js.map": "/a11y-airline/static/js/main.5ea3d4a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7627d025.css",
+    "static/js/main.5ea3d4a3.js"
+  ]
+}
