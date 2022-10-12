@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.css": "/a11y-airline/static/css/main.e97d4947.css",
-    "main.js": "/a11y-airline/static/js/main.e5b3d5e7.js",
+    "main.css": "/a11y-airline/static/css/main.b32303ef.css",
+    "main.js": "/a11y-airline/static/js/main.a8bf6aac.js",
+    "static/media/FUK-list-pc.jpg": "/a11y-airline/static/media/FUK-list-pc.eb527deba7367905fb6a.jpg",
+    "static/media/BCN-list-pc.jpg": "/a11y-airline/static/media/BCN-list-pc.1364b638673a2d358a97.jpg",
+    "static/media/DXB-list-pc.jpg": "/a11y-airline/static/media/DXB-list-pc.c8f29c878a50a7c34954.jpg",
+    "static/media/CNX-list-pc.jpg": "/a11y-airline/static/media/CNX-list-pc.a1fbb3caae9fb90aa316.jpg",
+    "static/media/HKT-list-pc.jpg": "/a11y-airline/static/media/HKT-list-pc.8387ed1476129c1498ac.jpg",
+    "static/media/FCO-list-pc.jpg": "/a11y-airline/static/media/FCO-list-pc.de2128a1ea2bdf7a4111.jpg",
+    "static/media/HNL-list-pc.jpg": "/a11y-airline/static/media/HNL-list-pc.d0d14931afbd7764058e.jpg",
+    "static/media/HAN-list-pc.jpg": "/a11y-airline/static/media/HAN-list-pc.97ee92d898c8b82e67d1.jpg",
     "static/media/ico-opener.svg": "/a11y-airline/static/media/ico-opener.5012fa0dad7ea0704916.svg",
     "index.html": "/a11y-airline/index.html",
     "static/media/passenger__control-add.svg": "/a11y-airline/static/media/passenger__control-add.cf1894dceeee31ab60ed.svg",
+    "static/media/carousel__button-right.svg": "/a11y-airline/static/media/carousel__button-right.358b3429efc0cd0b4f6d.svg",
+    "static/media/carousel__button-left.svg": "/a11y-airline/static/media/carousel__button-left.fb9107ffb2a94144814b.svg",
     "static/media/passenger__control-sub.svg": "/a11y-airline/static/media/passenger__control-sub.40090f0e3c8cdae6341b.svg",
-    "static/media/tooltip__close.svg": "/a11y-airline/static/media/tooltip__close.3a33f73daeadf2c0e6af.svg",
-    "main.e97d4947.css.map": "/a11y-airline/static/css/main.e97d4947.css.map",
-    "main.e5b3d5e7.js.map": "/a11y-airline/static/js/main.e5b3d5e7.js.map"
+    "static/media/tooltip__close.svg": "/a11y-airline/static/media/tooltip__close.ece73c32e2f8c39951d2.svg",
+    "main.b32303ef.css.map": "/a11y-airline/static/css/main.b32303ef.css.map",
+    "main.a8bf6aac.js.map": "/a11y-airline/static/js/main.a8bf6aac.js.map"
   },
   "entrypoints": [
-    "static/css/main.e97d4947.css",
-    "static/js/main.e5b3d5e7.js"
+    "static/css/main.b32303ef.css",
+    "static/js/main.a8bf6aac.js"
   ]
 }
