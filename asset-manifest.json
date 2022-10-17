@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/a11y-airline/static/css/main.75cc87b2.css",
-    "main.js": "/a11y-airline/static/js/main.c4abf5f0.js",
+    "main.css": "/a11y-airline/static/css/main.5c3d2dfa.css",
+    "main.js": "/a11y-airline/static/js/main.2f615080.js",
     "static/media/FUK-list-pc.jpg": "/a11y-airline/static/media/FUK-list-pc.eb527deba7367905fb6a.jpg",
     "static/media/BCN-list-pc.jpg": "/a11y-airline/static/media/BCN-list-pc.1364b638673a2d358a97.jpg",
     "static/media/DXB-list-pc.jpg": "/a11y-airline/static/media/DXB-list-pc.c8f29c878a50a7c34954.jpg",
@@ -17,11 +17,11 @@
     "static/media/carousel__button-left.svg": "/a11y-airline/static/media/carousel__button-left.fb9107ffb2a94144814b.svg",
     "static/media/passenger__control-sub.svg": "/a11y-airline/static/media/passenger__control-sub.40090f0e3c8cdae6341b.svg",
     "static/media/tooltip__close.svg": "/a11y-airline/static/media/tooltip__close.ece73c32e2f8c39951d2.svg",
-    "main.75cc87b2.css.map": "/a11y-airline/static/css/main.75cc87b2.css.map",
-    "main.c4abf5f0.js.map": "/a11y-airline/static/js/main.c4abf5f0.js.map"
+    "main.5c3d2dfa.css.map": "/a11y-airline/static/css/main.5c3d2dfa.css.map",
+    "main.2f615080.js.map": "/a11y-airline/static/js/main.2f615080.js.map"
   },
   "entrypoints": [
-    "static/css/main.75cc87b2.css",
-    "static/js/main.c4abf5f0.js"
+    "static/css/main.5c3d2dfa.css",
+    "static/js/main.2f615080.js"
   ]
 }
